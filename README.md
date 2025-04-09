@@ -1,2 +1,4 @@
-# Road-Accident-Dashboard-
-This interactive Excel dashboard presents a comprehensive analysis of road accident data for the years 2021 and 2022. It offers a multi-dimensional view of road casualties based on vehicle type, road surface, lighting conditions, and road types.
+# Road Accident Dashboard (Built with Microsoft Excel)
+## Project Object
+The objective of this project is to analyze road accident data from 2021 and 2022 to uncover key patterns and factors contributing to traffic casualties. By visualizing the data in an interactive Excel dashboard, the goal is to help stakeholders—such as traffic authorities, safety analysts, and policy makers—identify high-risk conditions (e.g., specific road types, surfaces, or vehicle categories) and make informed, data-driven decisions to enhance road safety and reduce accidents. 
+
